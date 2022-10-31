@@ -21,7 +21,7 @@ class Solution(object):
             return 0
         
         while queue:            
-            minutes += 1
+            minutes += 1#fdfgdf
             
             size = len(queue)           
             for _ in range(size):
